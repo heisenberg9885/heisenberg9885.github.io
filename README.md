@@ -6,7 +6,13 @@
 
 ***
 ## Education
-**Xian Jiaotong University** Statistics GPA：3.3  bachelor degree
+**Xian Jiaotong University** Statistics &ensp GPA：3.3  &ensp bachelor degree
 
 
-**Zhejiang University** 
+**Zhejiang University** Applied mathematics &ensp master
+
+***
+
+## Experience
+
+**Alibaba Group** intern at Alibaba Intelligent Information Division
