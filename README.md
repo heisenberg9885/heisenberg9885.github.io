@@ -22,13 +22,15 @@ Project:**Browser search query retrieval**: we need to find the corresponding ev
 I also have experience in other task such as NER, MRC, SPO extract during internship.
 
 
-
+***
 
 ## Paper 
 
 **RegionRel:A Framework for Jointly Extracting Relational Triplets by Performing Sub-tasks by Region**
 
 An individual completed paper of conference being submitted.This paper mainly aims at the information interaction problem of traditional SPO extraction, and proposes a multi-task interaction model with unified label space, which achieves the sota effect on multiple SPO extraction data sets. Specifically, traditional SPO extraction splits the task into subtasks of entity recognition and relation classification, but does not take information interaction into consideration. This paper designs a model that unifies the label space of the two subtasks so that the subtasks can be executed simultaneously. Multiple experiments show that the model has a better effect in dealing with the overlap pattern.
+
+***
 
 ## Myself
 
