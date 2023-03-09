@@ -38,6 +38,6 @@ I was major in Mathematics and have studied mathematical statistics, stochastic 
 
 ## Reasearch Interest
 
-# Information Extraction
+### Information Extraction
 
-# Information Retrieval
+### Information Retrieval
