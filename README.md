@@ -35,3 +35,9 @@ An individual completed paper of conference being submitted.This paper mainly ai
 ## Myself
 
 I was major in Mathematics and have studied mathematical statistics, stochastic process, Bayesian theory, convex optimization, matrix analysis and other mathematics courses. My interest in NLP began with my undergraduate graduation project, and I continued to study myself at the master's time. I have a greater interest in scientific research. I hope that I can get professional scientific research guidance through a relatively substantial scientific research practice, and lay a foundation for future scientific research. For the sub area of NLP,I am familiar with information extraction but I am also interested in other area like generation,retrieval.
+
+## Reasearch Interest
+
+# Information Extraction
+
+# Information Retrieval
